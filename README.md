@@ -37,4 +37,6 @@
 The Class Component  ```Euro``` displays each balance received by it's property ```bankAccount```. What's missing is the functionality to convert those balances to GBP. Therefore, a Button "Show Balance in GBP" has been placed, which should trigger this functionality.
 
 -Technical:
-Please implement your solution with Redux (already installed) and transform the Component ```Euro``` into a Function Component.
+*Please implement your solution with Redux (already installed)
+*transform the Component ```Euro``` into a Function Component.
+*Use the API https://exchangeratesapi.io/ to retrieve the current exchange rate for GBP
