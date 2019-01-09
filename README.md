@@ -25,4 +25,5 @@
 ```python manage.py createsuperuser```
 
 1.5 webpack
+* Install ```npm```and ```node```
 * Create FrontEnd Bundle with ```npm run dev```
