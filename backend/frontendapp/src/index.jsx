@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { createStore, applyMiddleware, compose } from 'redux';
 import thunk from 'redux-thunk';
 import { Provider } from 'react-redux';
-import Login from './components/login';
+import Euro from './components/EuroGBP.jsx';
 import Reducer from './reducer/reducer';
 
 /* eslint-disable no-underscore-dangle */
@@ -18,6 +18,6 @@ const store = createStore(
 
 ReactDOM.render((
   <Provider store={store}>
-    <Login />
+    <Euro bankAccount={[1233.1343, 234432, 23234, 784, 3457, 45457]} />
   </Provider>
 ), document.getElementById('react-app'));
