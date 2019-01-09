@@ -30,7 +30,7 @@
 
 # 2 Run & Develop
 ```python manage.py runserver```
-```npm run dev
+```npm run dev```
 
 # 3 Task
 
