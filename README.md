@@ -29,7 +29,7 @@
 * Create FrontEnd Bundle with ```npm run dev```
 
 # 2 Run & Develop
-```python manage.py runserver```
+```python manage.py runserver``` </br>
 ```npm run dev```
 
 # 3 Task
