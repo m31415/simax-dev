@@ -28,8 +28,9 @@
 * Install ```npm```and ```node```
 * Create FrontEnd Bundle with ```npm run dev```
 
-# 2 Run
+# 2 Run & Develop
 ```python manage.py runserver```
+```npm run dev
 
 # 3 Task
 
