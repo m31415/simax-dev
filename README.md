@@ -38,4 +38,4 @@ The Class Component  ```Euro``` displays each balance received by it's property 
 
 -Technical:
 Please implement your solution with Redux (already installed) and transform the Component ```Euro``` into a Function Component, that solely displays the balances and calls your redux-actions. </br>
-Use the API https://exchangeratesapi.io/ to retrieve the current exchange rate for GBP
+Use the API https://exchangeratesapi.io/ to retrieve the current exchange rate for GBP with https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
