@@ -1,4 +1,4 @@
-# django-rest-react-redux-blueprint
+# Simax-Dev
 [![CircleCI](https://circleci.com/gh/m31415/django-rest-react-redux-blueprint.svg?style=svg)](https://circleci.com/gh/m31415/django-rest-react-redux-blueprint)
 
 
